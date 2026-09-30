@@ -1,0 +1,90 @@
+{
+  "name": "Kuromi",
+  "description": "Villana programadora con laptop morada y sonrisa de fufufu.",
+  "sprite_version": 2,
+  "spritesheet": "spritesheet.png",
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "columns": 8,
+  "rows": [
+    {
+      "row": 0,
+      "state": "idle",
+      "frames": 6
+    },
+    {
+      "row": 1,
+      "state": "running-right",
+      "frames": 8
+    },
+    {
+      "row": 2,
+      "state": "running-left",
+      "frames": 8
+    },
+    {
+      "row": 3,
+      "state": "waving",
+      "frames": 4
+    },
+    {
+      "row": 4,
+      "state": "jumping",
+      "frames": 5
+    },
+    {
+      "row": 5,
+      "state": "failed",
+      "frames": 8
+    },
+    {
+      "row": 6,
+      "state": "waiting",
+      "frames": 6
+    },
+    {
+      "row": 7,
+      "state": "running",
+      "frames": 6
+    },
+    {
+      "row": 8,
+      "state": "review",
+      "frames": 6
+    },
+    {
+      "row": 9,
+      "state": "look-first-half",
+      "frames": 8
+    },
+    {
+      "row": 10,
+      "state": "look-second-half",
+      "frames": 8
+    }
+  ],
+  "look_directions_degrees": [
+    0.0,
+    22.5,
+    45.0,
+    67.5,
+    90.0,
+    112.5,
+    135.0,
+    157.5,
+    180.0,
+    202.5,
+    225.0,
+    247.5,
+    270.0,
+    292.5,
+    315.0,
+    337.5
+  ],
+  "sha256": "9962be4b296575352c3784f9e7d423684a090c85a0d75e149b475b7f52246b07",
+  "created_on": "2026-09-30",
+  "character_credit": "Kuromi — Sanrio",
+  "artwork": "Generado con IA a partir de una referencia aportada por Sebastián Ocampo."
+}

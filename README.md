@@ -28,3 +28,11 @@ Esto copia `hooks/pre-push` a `.git/hooks/pre-push`.
 ## Nota sobre Pull Requests
 
 GitHub no soporta animaciones en la UI del PR; solo se puede publicar ASCII estático en comentarios o outputs de Actions.
+
+## Kuromi villana programadora
+
+Mascota animada con laptop morada, nueve estados de animación y dieciséis direcciones de mirada.
+
+![Kuromi programando](assets/kuromi/previews/running.gif)
+
+[Archivos, distribución de poses y vistas previas](assets/kuromi/README.md).
